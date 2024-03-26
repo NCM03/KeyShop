@@ -1,0 +1,1921 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShopKey.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShopKey.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\WebStorage\\Images\\ProductImages\\1fbd84ab-f4ef-425f-bbe7-fa0365881229.png",
+      "PackagePath": "staticwebassets\\WebStorage\\Images\\ProductImages\\1fbd84ab-f4ef-425f-bbe7-fa0365881229.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\WebStorage\\Images\\ProductImages\\31c6e25a-2e64-43f1-9df4-03e2cce5825c.jpg",
+      "PackagePath": "staticwebassets\\WebStorage\\Images\\ProductImages\\31c6e25a-2e64-43f1-9df4-03e2cce5825c.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\WebStorage\\Images\\ProductImages\\4a2ed62a-f219-41a1-94ee-9bd72285765d.png",
+      "PackagePath": "staticwebassets\\WebStorage\\Images\\ProductImages\\4a2ed62a-f219-41a1-94ee-9bd72285765d.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\WebStorage\\Images\\ProductImages\\5c44a8b1-5d12-467f-83aa-61049acabbfb.png",
+      "PackagePath": "staticwebassets\\WebStorage\\Images\\ProductImages\\5c44a8b1-5d12-467f-83aa-61049acabbfb.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\WebStorage\\Images\\ProductImages\\6984ad69-a871-49df-99db-b1c7fd5f54b4.jpg",
+      "PackagePath": "staticwebassets\\WebStorage\\Images\\ProductImages\\6984ad69-a871-49df-99db-b1c7fd5f54b4.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\WebStorage\\Images\\ProductImages\\7c7b7805-c9b6-4fe3-b7ea-0bbbf06763f5.jpg",
+      "PackagePath": "staticwebassets\\WebStorage\\Images\\ProductImages\\7c7b7805-c9b6-4fe3-b7ea-0bbbf06763f5.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\WebStorage\\Images\\ProductImages\\8423ac23-a6f4-497e-afdb-510af338d381.jpg",
+      "PackagePath": "staticwebassets\\WebStorage\\Images\\ProductImages\\8423ac23-a6f4-497e-afdb-510af338d381.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\WebStorage\\Images\\ProductImages\\8cc8b7e5-0ec9-489a-9c1a-d9d8fed1dc95.png",
+      "PackagePath": "staticwebassets\\WebStorage\\Images\\ProductImages\\8cc8b7e5-0ec9-489a-9c1a-d9d8fed1dc95.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\WebStorage\\Images\\ProductImages\\9051d94b-bc86-4a7a-a38c-8237ce8212e8.png",
+      "PackagePath": "staticwebassets\\WebStorage\\Images\\ProductImages\\9051d94b-bc86-4a7a-a38c-8237ce8212e8.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\WebStorage\\Images\\ProductImages\\91a0f0db-c0f1-4a47-a5c7-21e01de26361.png",
+      "PackagePath": "staticwebassets\\WebStorage\\Images\\ProductImages\\91a0f0db-c0f1-4a47-a5c7-21e01de26361.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\WebStorage\\Images\\ProductImages\\9bb3083e-5a97-4687-9dc5-44136737ab31.png",
+      "PackagePath": "staticwebassets\\WebStorage\\Images\\ProductImages\\9bb3083e-5a97-4687-9dc5-44136737ab31.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\WebStorage\\Images\\ProductImages\\9d9cbeec-999b-4818-941e-5973c777daa2.jpg",
+      "PackagePath": "staticwebassets\\WebStorage\\Images\\ProductImages\\9d9cbeec-999b-4818-941e-5973c777daa2.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\WebStorage\\Images\\ProductImages\\a4998e74-51d2-4d46-add4-caaf86b537f8.png",
+      "PackagePath": "staticwebassets\\WebStorage\\Images\\ProductImages\\a4998e74-51d2-4d46-add4-caaf86b537f8.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\WebStorage\\Images\\ProductImages\\b386d246-61c1-4f6f-a3c3-fb48a16b93fd.png",
+      "PackagePath": "staticwebassets\\WebStorage\\Images\\ProductImages\\b386d246-61c1-4f6f-a3c3-fb48a16b93fd.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\WebStorage\\Images\\ProductImages\\b9ffa701-b126-4374-9a5c-4a8a72e6c0a6.jpg",
+      "PackagePath": "staticwebassets\\WebStorage\\Images\\ProductImages\\b9ffa701-b126-4374-9a5c-4a8a72e6c0a6.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\WebStorage\\Images\\ProductImages\\d46e13ca-e93d-4b12-a8ce-de30436ba5b7.png",
+      "PackagePath": "staticwebassets\\WebStorage\\Images\\ProductImages\\d46e13ca-e93d-4b12-a8ce-de30436ba5b7.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\WebStorage\\Images\\ProductImages\\d710e07f-54de-4f06-8946-7640ec5c85cb.jpg",
+      "PackagePath": "staticwebassets\\WebStorage\\Images\\ProductImages\\d710e07f-54de-4f06-8946-7640ec5c85cb.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\WebStorage\\Images\\ProductImages\\fd9daa7b-e56f-48bc-982e-e9f65659b4db.png",
+      "PackagePath": "staticwebassets\\WebStorage\\Images\\ProductImages\\fd9daa7b-e56f-48bc-982e-e9f65659b4db.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\css\\admin-style.css",
+      "PackagePath": "staticwebassets\\css\\admin-style.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\img\\404.jpg",
+      "PackagePath": "staticwebassets\\img\\404.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\img\\Microsoft-Windows-10-logo.png",
+      "PackagePath": "staticwebassets\\img\\Microsoft-Windows-10-logo.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\img\\NCM.png",
+      "PackagePath": "staticwebassets\\img\\NCM.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\img\\OFFIce 2019 Professional.jpg",
+      "PackagePath": "staticwebassets\\img\\OFFIce 2019 Professional.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\img\\access-denied.jpg",
+      "PackagePath": "staticwebassets\\img\\access-denied.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\img\\adobe 1 month.jpg",
+      "PackagePath": "staticwebassets\\img\\adobe 1 month.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\img\\backgr.png",
+      "PackagePath": "staticwebassets\\img\\backgr.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\img\\bank2.jpg",
+      "PackagePath": "staticwebassets\\img\\bank2.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\img\\e0b43b05-261e-4e06-b888-5210e31bb613_anh ngon co ven duong.jpg",
+      "PackagePath": "staticwebassets\\img\\e0b43b05-261e-4e06-b888-5210e31bb613_anh ngon co ven duong.jpg"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\img\\emptyCart.png",
+      "PackagePath": "staticwebassets\\img\\emptyCart.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\img\\emptyTask.png",
+      "PackagePath": "staticwebassets\\img\\emptyTask.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\img\\emtyReview.png",
+      "PackagePath": "staticwebassets\\img\\emtyReview.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\img\\img-Login.png",
+      "PackagePath": "staticwebassets\\img\\img-Login.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\img\\user.png",
+      "PackagePath": "staticwebassets\\img\\user.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\js\\admin-main.js",
+      "PackagePath": "staticwebassets\\js\\admin-main.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\flaticon\\font\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\Flaticon.woff2"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\lib\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\lib\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\icons\\default\\icons.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\icons\\default\\icons.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\langs\\README.md",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\langs\\README.md"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\license.txt",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\license.txt"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\models\\dom\\model.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\models\\dom\\model.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\accordion\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\accordion\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\accordion\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\accordion\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\advlist\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\advlist\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\anchor\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\anchor\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\autolink\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autolink\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\autoresize\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autoresize\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\autosave\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autosave\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\charmap\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\charmap\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\code\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\code\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\codesample\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\codesample\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\directionality\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\directionality\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\fullscreen\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\fullscreen\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\image\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\image\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\importcss\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\importcss\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\insertdatetime\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\insertdatetime\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\link\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\link\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\lists\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\lists\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\media\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\media\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\nonbreaking\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\nonbreaking\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\pagebreak\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\pagebreak\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\preview\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\preview\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\quickbars\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\quickbars\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\save\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\save\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\searchreplace\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\searchreplace\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\table\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\table\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\template\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\template\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\template\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\template\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\visualblocks\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualblocks\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\visualchars\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualchars\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\wordcount\\plugin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\wordcount\\plugin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\content\\dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\dark\\content.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\content\\dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\dark\\content.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\content\\default\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\default\\content.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\content\\document\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\document\\content.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\content\\document\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\document\\content.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\content\\writer\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\writer\\content.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\content\\writer\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\writer\\content.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\themes\\silver\\theme.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\themes\\silver\\theme.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\tinymce.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\tinymce.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\lib\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\FPT\\c-sharp-craftsman-main\\c-sharp-craftsman-main\\pe_sample\\ShopKey\\ShopKey\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ShopKey.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ShopKey.props",
+      "PackagePath": "build\\ShopKey.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopKey.props",
+      "PackagePath": "buildMultiTargeting\\ShopKey.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ShopKey.props",
+      "PackagePath": "buildTransitive\\ShopKey.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
